@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Phpwsl\\Customcodemsg\\": "extend/"
+            "Phpwsl\\Customcodemsg\\": "src/"
         }
     },
     "authors": [
@@ -16,6 +16,5 @@
             "name": "韦顺隆",
             "email": "phpweishunlong@163.com"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
