@@ -1,0 +1,21 @@
+{
+    "name": "phpwsl/customcodemsg",
+    "description": "自定义code库",
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpwsl\\Customcodemsg\\": "extend/"
+        }
+    },
+    "authors": [
+        {
+            "name": "韦顺隆",
+            "email": "phpweishunlong@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
